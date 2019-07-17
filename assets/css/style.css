@@ -4,3 +4,17 @@ h1{
   background-color: rgb(28,1,8);
 color: rgb(50,100,255);}
 body{background-color: rgb(28,1,8);}
+p{text-align:center;}
+a:hover{font-size: 15px;}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+a{
+  color: #333;
+}
+#neko{
+  break-before: avoid-region;
+}
