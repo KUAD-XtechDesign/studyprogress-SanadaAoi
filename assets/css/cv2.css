@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+  text-align: center;
+}
+
+h1{
+  font-style: italic;
+  font-size: 80px;
+  color: red;
+}
+h2{
+  color: white;
+
+}
+
+p{
+  font-size: 90px;
+  color: yellow;
+}

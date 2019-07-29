@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+h1{
+  background-color: rgb(45,50,50);
+color: rgb(0,0,5);}
+body{background-color: rgb(50,50,50);}
+p{text-align:center;}
+a:hover{font-size: 15px;}
+
+img{
+  max-width: 50%;
+  height: auto;
+}
+
+a{
+  color: #000;
+}
+div{
+  text-align: center;
+
+
+}
